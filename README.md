@@ -1,5 +1,15 @@
 # QR Code Generator
-This project generates a QR code based on a provided link and saves it as an image.
+This repository is part of a broader project aimed at demonstrating how QR codes have become widely popular and how easily people scan and follow them without thinking twice about their origin. The same way attackers used to scatter USB drives around company parking lots to lure people into inserting them into their computers, today, it's as simple as placing a QR code in public spaces.
+
+Attackers can replace a QR code in a restaurant, for example, leading users to a malicious link, and the users wouldn't notice since the behavior of scanning a QR code is so seamless and trusted.
+
+For more details on this topic and the full project, visit my LinkedIn post.
+
+
+
+
+
+
 
 ## Requirements
  * Python 3.12.5
