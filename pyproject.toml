@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "qr-cibersecurity"
+version = "0.1.0"
+description = ""
+authors = ["Carlos Gitto <carlosgitto98@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.5"
+black = "^24.8.0"
+qrcode = "^7.4.2"
+ipython = "^8.27.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
