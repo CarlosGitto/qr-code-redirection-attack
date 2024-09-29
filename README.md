@@ -3,7 +3,7 @@ This repository is part of a broader project aimed at demonstrating how QR codes
 
 Attackers can replace a QR code in a restaurant, for example, leading users to a malicious link, and the users wouldn't notice since the behavior of scanning a QR code is so seamless and trusted.
 
-For more details on this topic and the full project, visit my LinkedIn post.
+For more details on this topic and the full project, visit my LinkedIn [post](https://www.linkedin.com/feed/update/urn:li:activity:7246004947937333249/).
 
 
 ## Requirements
